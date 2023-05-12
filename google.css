@@ -1,0 +1,52 @@
+.box1{ /*ilk kutum, diğerlerini de karıştırmamak açıısndan 2 3 diye sıralandır*/
+    background-color:#EEEEEE;  /*rengi google 98 sayfasından aldım */
+    text-align: center;
+    margin-left: 100px;  /* kutuda soldan boşluk bıraktım*/
+    margin-right: 100px; /* kutuda sağdan boşluk bıraktım*/
+    
+}
+.text{
+    width: 300px; /*text kutusuna verdiğim class ismi-karıştırma-*/
+}
+
+.box2{
+    background-color: #7EE5DA;  /*rengi google 98 sayfasından aldım */
+    margin-left: 100px;
+    padding-left: 100px;
+    float:left; /*kutular yan yana dursun*/
+    width: 300px;
+    height: 85px;
+    padding-left: 300px;
+    padding-top: 10px;
+    margin-top: 3px;
+    margin-right: 3px;
+}
+
+.box3{
+    background-color: #70CCC2;  /*rengi google 98 sayfasından aldım */
+    float:left;
+    width: 400px;
+    height: 85px;
+    padding-top: 10px;
+    margin-top: 3px;
+    margin-right: 3px;
+    
+}
+
+.box4{
+    background-color: #62B3AA; /*rengi google 98 sayfasından aldım */
+    text-align: center;
+    float: left;
+    width: 658px;
+    height: 85px;
+    padding-top: 10px;
+    margin-top: 3px;
+    margin-right: 3px;
+}
+
+.prg{
+    float: right;
+    padding-right: 850px; /*yazıya sağdan boşlu*/
+    margin-top: 20px; /*yazıya üstten boşluk*/
+    
+}
